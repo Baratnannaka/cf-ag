@@ -1,6 +1,6 @@
 {
   "AWSTemplateFormatVersion": "2010-09-09",
-  "Description": "AWS CloudFormation Sample Template ELBGuidedAutoScalingRollingUpdates",
+  "Description": "AWS CloudFormation Template ELBGuidedAutoScalingRollingUpdates",
   "Parameters": {
     "VpcId": {
       "Type": "AWS::EC2::VPC::Id",
